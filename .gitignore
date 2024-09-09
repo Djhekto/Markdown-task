@@ -1,0 +1,24 @@
+# старый файл гитигнора с 7 сема
+
+*~
+*.o
+*.a
+*.so
+*.so.*
+*.swp
+*.swo
+.#*
+*.tmp
+a.out
+.DS_Store
+thumbs.db
+
+1/trash
+1/.vscode
+
+*.exe
+*.obj
+*.dll
+*.lib
+*.ppu
+
